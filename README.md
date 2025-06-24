@@ -16,7 +16,6 @@ Este é um projeto simples de Pedra, Papel e Tesoura desenvolvido como parte do 
 🔧 Tecnologias Utilizadas
 
 - HTML5
-- 
 - JavaScript
 
 
